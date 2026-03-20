@@ -14,8 +14,7 @@ Access: [GitHub Pages](https://luyifei2011.github.io/scratch-modules-gallery/) |
 
 ## 📊 GitHub Statistics
 
-![LuYifei2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuYifei2011&show_icons=true&theme=light&locale=en#gh-light-mode-only)
-![LuYifei2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuYifei2011&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYifei2011&layout=compact&theme=light&locale=en#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYifei2011&layout=compact&theme=dark&locale=en#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=LuYifei2011&show_icons=true&theme=light&locale=en#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=LuYifei2011&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYifei2011&layout=compact&theme=light&locale=en#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYifei2011&layout=compact&theme=dark&locale=en#gh-dark-mode-only)
