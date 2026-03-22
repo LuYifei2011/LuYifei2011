@@ -14,7 +14,9 @@ Access: [GitHub Pages](https://luyifei2011.github.io/scratch-modules-gallery/) |
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=LuYifei2011&show_icons=true&theme=light&locale=en#gh-light-mode-only)
-![](https://github-readme-stats.vercel.app/api?username=LuYifei2011&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)
+![](./profile/stats-light.svg#gh-light-mode-only)
+![](./profile/stats-dark.svg#gh-dark-mode-only)
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYifei2011&layout=compact&theme=light&locale=en#gh-light-mode-only)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuYifei2011&layout=compact&theme=dark&locale=en#gh-dark-mode-only)
+-->
